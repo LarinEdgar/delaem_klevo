@@ -7,26 +7,26 @@ body {
     grid-template-rows: 88px 1fr 1fr 1fr 3fr 1fr;
 }
 
-.wrapper_navigation {
+.layout__navigation {
     grid-row: 1;
 }
 
-.wrapper_home {
+.layout__home {
     grid-row: 2;
 }
 
-.wrapper_about-me {
+.layout__about-me {
     grid-row: 3;
 }
 
-.wrapper_skills {
+.layout__skills {
     grid-row: 4;
 }
 
-.wrapper_portfolio {
+.layout__portfolio {
     grid-row: 5;
 }
 
-.wrapper_contacts {
+.layout__contacts {
     grid-row: 6;
 }

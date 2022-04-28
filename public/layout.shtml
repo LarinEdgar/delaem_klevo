@@ -8,24 +8,24 @@
 
     <body>
 
-    <div class="wrapper">
+    <div class="layout">
 
-        <div class="wrapper_navigation">
+        <div class="layout__navigation">
         </div>
 
-        <div class="wrapper_home">
+        <div class="layout__home">
         </div>
 
-        <div class="wrapper_about-me">
+        <div class="layout__about-me">
         </div>
 
-        <div class="wrapper_skills">
+        <div class="layout__skills">
         </div>
 
-        <div class="wrapper_portfolio">
+        <div class="layout__portfolio">
         </div>
 
-        <div class="wrapper_contacts">
+        <div class="layout__contacts">
         </div>
 
     </div>
