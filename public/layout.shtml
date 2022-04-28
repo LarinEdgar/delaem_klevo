@@ -10,22 +10,22 @@
 
     <div class="wrapper">
 
-        <div class="navigation">
+        <div class="wrapper_navigation">
         </div>
 
-        <div class="home">
+        <div class="wrapper_home">
         </div>
 
-        <div class="about_me">
+        <div class="wrapper_about-me">
         </div>
 
-        <div class="skills">
+        <div class="wrapper_skills">
         </div>
 
-        <div class="portfolio">
+        <div class="wrapper_portfolio">
         </div>
 
-        <div class="contacts">
+        <div class="wrapper_contacts">
         </div>
 
     </div>
