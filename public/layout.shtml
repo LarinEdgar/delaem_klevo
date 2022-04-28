@@ -3,11 +3,32 @@
     <head>
     <meta charset="UTF-8">
     <title>Practical task</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="layout_style.css">
     </head>
 
     <body>
-    
+
+    <div class="wrapper">
+
+        <div class="navigation">
+        </div>
+
+        <div class="home">
+        </div>
+
+        <div class="about_me">
+        </div>
+
+        <div class="skills">
+        </div>
+
+        <div class="portfolio">
+        </div>
+
+        <div class="contacts">
+        </div>
+
+    </div>
 
     </body>
 
