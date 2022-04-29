@@ -2,6 +2,8 @@
     margin-left: 0;
     padding-left: 0;
     list-style: none;
+    display: flex;
+    justify-content: center;
 }
 
 .navigation__list-item {
@@ -13,10 +15,15 @@
     width: 5em;
     padding: 10px;
     margin: 0 5px;
-    border: 1px dashed #333;
-    text-align: center;
+    color: #828282;
+    text-decoration: none;
 }
 
 .navigation__list-item-link:hover {
+    color: #000000;
     font-weight: bold;
+}
+
+.navigation__line {
+    border-bottom: 1px solid #828282;
 }

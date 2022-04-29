@@ -6,4 +6,5 @@
         <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Portfolio</a></li>
         <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Contacts</a></li>
     </ul>
+    <div class="navigation__line"></div>
 </div>
