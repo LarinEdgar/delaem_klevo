@@ -1,0 +1,22 @@
+.navigation__list {
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.navigation__list-item {
+    float: left;
+}
+
+.navigation__list-item-link {
+    display: block;
+    width: 5em;
+    padding: 10px;
+    margin: 0 5px;
+    border: 1px dashed #333;
+    text-align: center;
+}
+
+.navigation__list-item-link:hover {
+    font-weight: bold;
+}

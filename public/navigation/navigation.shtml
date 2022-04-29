@@ -1,0 +1,9 @@
+<div class="navigation">
+    <ul class="navigation__list">
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Home</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">About me</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Skills</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Portfolio</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Contacts</a></li>
+    </ul>
+</div>

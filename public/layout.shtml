@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Practical task</title>
     <link rel="stylesheet" href="layout_style.css">
+    <link rel="stylesheet" href="navigation/navigation_style.css">
     </head>
 
     <body>
