@@ -1,0 +1,18 @@
+.about_me {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.about-me_background {
+    background-color: #F6F6F6;
+}
+
+.about-me__title {
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 5%;
+}
+
+.about_me__item {
+    margin-top: 20px;
+}
