@@ -1,0 +1,14 @@
+<div class="home">
+<div class="home__description">
+ <div class="home__name">Denis <br/> Novik</div>
+ <div class="home__position">UX | UI designer <br/>
+     24 years old, Minsk</div>
+ <div class="home__lang ">
+     <span class="home_click home_click-active"> RU </span> <span class="home_click">| ENG </span>
+ </div>
+</div>
+    <div class="home__picture">
+ <img class="home__main-img " src="/home/BSPP2266.jpg">
+        <img class="home__mobil-img" src="/home/BSPP2266_mob.jpg">
+    </div>
+</div>
