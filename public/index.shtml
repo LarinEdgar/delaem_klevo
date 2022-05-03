@@ -1,37 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+<head>
     <meta charset="UTF-8">
     <title>Practical task</title>
     <link rel="stylesheet" href="layout_style.css">
     <link rel="stylesheet" href="navigation/navigation_style.css">
-    </head>
+</head>
 
-    <body>
+<body>
 
-    <div class="layout">
+<div class="layout">
 
-        <div class="layout__navigation">
-            <!--#include file="/navigation/index.shtml"-->
-        </div>
-
-        <div class="layout__home">
-        </div>
-
-        <div class="layout__about-me">
-        </div>
-
-        <div class="layout__skills">
-        </div>
-
-        <div class="layout__portfolio">
-        </div>
-
-        <div class="layout__contacts">
-        </div>
-
+    <div class="layout__navigation">
+        <!--#include file="/navigation/index.shtml"-->
     </div>
 
-    </body>
+    <div id="home" class="layout__home">
+    </div>
+
+    <div id="about_me" class="layout__about-me">
+    </div>
+
+    <div id="skills" class="layout__skills">
+    </div>
+
+    <div id="portfolio" class="layout__portfolio">
+    </div>
+
+    <div id="contacts" class="layout__contacts">
+    </div>
+
+</div>
+
+</body>
 
 </html>

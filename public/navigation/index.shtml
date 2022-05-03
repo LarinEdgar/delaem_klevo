@@ -1,10 +1,10 @@
 <div class="navigation">
     <ul class="navigation__list">
-        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Home</a></li>
-        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">About me</a></li>
-        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Skills</a></li>
-        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Portfolio</a></li>
-        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#">Contacts</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#home">Home</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#about_me">About me</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#skills">Skills</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#portfolio">Portfolio</a></li>
+        <li class="navigation__list-item"><a class="navigation__list-item-link" href="#contacts">Contacts</a></li>
     </ul>
     <div class="navigation__line"></div>
 </div>
