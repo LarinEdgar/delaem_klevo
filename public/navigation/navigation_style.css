@@ -1,9 +1,21 @@
+.navigation {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navigation__wrapper {
+    background-color: #fff;
+    height: 50px;
+}
+
 .navigation__list {
-    margin-left: 0;
-    padding-left: 0;
+    width: 944px;
+    margin: auto;
+    padding-inline-start: 0;
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
 }
 
 .navigation__list-item {
@@ -12,9 +24,8 @@
 
 .navigation__list-item-link {
     display: block;
-    width: 5em;
-    padding: 10px;
-    margin: 0 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     color: #828282;
     text-decoration: none;
 }
@@ -25,5 +36,7 @@
 }
 
 .navigation__line {
+    width: 944px;
+    margin: auto;
     border-bottom: 1px solid #828282;
 }
