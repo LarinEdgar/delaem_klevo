@@ -1,9 +1,6 @@
-.about_me {
+.about-me {
     text-align: center;
     padding-bottom: 5%;
-}
-
-.about-me_background {
     background-color: #F6F6F6;
 }
 
@@ -13,6 +10,6 @@
     padding-top: 5%;
 }
 
-.about_me__item {
+.about-me__item {
     margin-top: 20px;
 }
