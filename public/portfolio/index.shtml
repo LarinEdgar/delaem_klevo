@@ -1,0 +1,11 @@
+<div class="portfolio">
+    <div class="portfolio__title">
+        Portfolio
+    </div>
+
+    <div class="portfolio__cards">
+        <!--#include file="portfolio/portfolio_card//index.shtml"-->
+        <!--#include file="portfolio/portfolio_card//index.shtml"-->
+        <!--#include file="portfolio/portfolio_card//index.shtml"-->
+    </div>
+</div>
