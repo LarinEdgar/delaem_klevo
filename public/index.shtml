@@ -12,6 +12,7 @@
     <div class="layout">
 
         <div class="layout__navigation">
+            <!--#include file="/navigation/index.shtml"-->
         </div>
 
         <div class="layout__home">
