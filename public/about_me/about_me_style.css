@@ -1,13 +1,13 @@
 .about-me {
     text-align: center;
-    padding-bottom: 5%;
+    padding-bottom: 50px;
     background-color: #F6F6F6;
 }
 
 .about-me__title {
     font-size: 24px;
     font-weight: bold;
-    padding-top: 5%;
+    padding-top: 50px;
 }
 
 .about-me__item {
