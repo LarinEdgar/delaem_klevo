@@ -5,8 +5,8 @@
 }
 
 .navigation__wrapper {
-    background-color: #fff;
-    height: 50px;
+    background: linear-gradient(rgba(255,255,255,1) 75%, rgba(255,255,255,0.9) 85%, rgba(255,255,255,0));
+    height: 90px;
 }
 
 .navigation__list {
@@ -16,6 +16,7 @@
     list-style: none;
     display: flex;
     justify-content: space-between;
+    padding: 15px;
 }
 
 .navigation__list-item {
