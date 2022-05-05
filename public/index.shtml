@@ -23,22 +23,22 @@
         <!--#include file="/navigation/index.shtml"-->
     </div>
 
-    <div class="layout__home">
+    <div id="home" class="layout__home">
         <!--#include file="/home/index.shtml"-->
     </div>
 
-    <div class="layout__about-me">
+    <div id="about_me" class="layout__about-me">
         <!--#include file="/about_me/index.shtml"-->
     </div>
 
-    <div class="layout__skills">
+    <div id="skills" class="layout__skills">
     </div>
 
-    <div class="layout__portfolio">
+    <div id="portfolio" class="layout__portfolio">
         <!--#include file="/portfolio/index.shtml"-->
     </div>
 
-    <div class="layout__contacts">
+    <div id="contacts" class="layout__contacts">
     </div>
 </div>
 </body>
