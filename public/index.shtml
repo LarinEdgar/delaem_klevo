@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="layout_style.css">
     <link rel="stylesheet" href="navigation/navigation_style.css">
     <link rel="stylesheet" href="home/home_style.css">
+    <link rel="stylesheet" href="contacts/contacts.css">
 </head>
 
 <body>
@@ -34,6 +35,7 @@
     </div>
 
     <div id="contacts" class="layout__contacts">
+        <!--#include file="/contacts/index.shtml"-->
     </div>
 
 </div>

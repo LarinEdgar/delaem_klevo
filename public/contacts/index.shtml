@@ -1,0 +1,21 @@
+<div class="contacts">
+    <div class="contacts__title">
+        Contacts
+    </div>
+    <div class="contacts__article1">
+        Want to know more or just chat? </br>
+        You are welcome!
+    </div>
+
+    <button class="contacts__message">
+        Send message
+    </button>
+
+    <div class="contacts__icons">
+
+    </div>
+    <div class="contacts__article2">
+        Like me on </br>
+        LinkedIn, Instagram, Behance, Dribble
+    </div>
+</div>
