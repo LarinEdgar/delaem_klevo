@@ -5,7 +5,7 @@
     <title>Practical task</title>
     <link rel="stylesheet" href="layout_style.css">
     <link rel="stylesheet" href="portfolio/portfolio_style.css">
-    <link rel="stylesheet" href="portfolio/portfolio_card/portfolio_style.css">
+    <link rel="stylesheet" href="portfolio/card/card_style.css">
 </head>
 
 <body>
