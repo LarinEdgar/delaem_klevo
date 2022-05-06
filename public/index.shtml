@@ -12,12 +12,12 @@
     <link rel="stylesheet" href="about_me/about_me_style.css">
     <link rel="stylesheet" href="navigation/navigation_style.css">
     <link rel="stylesheet" href="portfolio/portfolio_style.css">
+    <link rel="stylesheet" href="contacts/contacts_style.css">
     <link rel="stylesheet" href="portfolio/card/card_style.css">
-    <link rel="stylesheet" href="common/stars/stars_style.css">
+    <link rel="stylesheet" href="common/socials/socials_style.css">
 </head>
 
 <body>
-
 <div class="layout">
 
     <div class="layout__navigation">
@@ -40,6 +40,7 @@
     </div>
 
     <div id="contacts" class="layout__contacts">
+        <!--#include file="/contacts/index.shtml"-->
     </div>
 </div>
 </body>
