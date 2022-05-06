@@ -1,0 +1,26 @@
+<div class="portfolio">
+    <div class="portfolio__title">
+        Portfolio
+    </div>
+
+    <div class="portfolio__card">
+        <!--#set var="image" value="/assets/card1.png" -->
+        <!--#set var="link" value="#" -->
+        <!--#set var="text" value="Online fashion store - Homepage" -->
+        <!--#include file="./portfolio/card/index.shtml" -->
+    </div>
+
+    <div class="portfolio__card">
+        <!--#set var="image" value="/assets/card2.png" -->
+        <!--#set var="link" value="#" -->
+        <!--#set var="text" value="Reebok Store - Concept" -->
+        <!--#include file="./portfolio/card/index.shtml" -->
+    </div>
+
+    <div class="portfolio__card">
+        <!--#set var="image" value="/assets/card3.png" -->
+        <!--#set var="link" value="#" -->
+        <!--#set var="text" value="Braun Landing Page - Concept" -->
+        <!--#include file="./portfolio/card/index.shtml" -->
+    </div>
+</div>

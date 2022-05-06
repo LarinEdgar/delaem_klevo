@@ -1,0 +1,10 @@
+.stars {
+    width: 110px;
+    height: 20px;
+    background-image: url("/../../assets/star_white.jpg");
+}
+
+.stars__active {
+    background-image: url("/../../assets/star_black.jpg");
+    height: 100%;
+}

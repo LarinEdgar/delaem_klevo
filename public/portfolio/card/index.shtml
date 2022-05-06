@@ -1,0 +1,4 @@
+<div class="card">
+    <img src='<!--#echo var="image" -->' alt="something wrong!">
+    <a class="card__link" href='<!--#echo var="link" -->'><!--#echo var="text" --></a>
+</div>
