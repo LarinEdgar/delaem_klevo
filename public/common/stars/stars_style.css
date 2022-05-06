@@ -6,5 +6,5 @@
 
 .stars__active {
     background-image: url("/../../assets/star_black.jpg");
-    height: 20px;
+    height: 100%;
 }
