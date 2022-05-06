@@ -1,0 +1,17 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card__link {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: #070707;
+    text-decoration: none;
+}
+
+.card__link:hover {
+    text-decoration: underline;
+}

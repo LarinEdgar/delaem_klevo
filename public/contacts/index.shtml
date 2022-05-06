@@ -8,14 +8,16 @@
     </div>
 
     <div class="contacts__message">
+
         <!--#set var="link" value="mailto:sswicanx@gmail.com" -->
         <!--#set var="text" value="Send message" -->
         <!--#include file="./common/button/index.shtml" -->
     </div>
 
     <div class="contacts__icons">
-    </div>
+        <!--#include file="/common/socials/index.shtml"-->
 
+    </div>
     <div class="contacts__article2">
         Like me on </br>
         LinkedIn, Instagram, Behance, Dribble

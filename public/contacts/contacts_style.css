@@ -7,6 +7,11 @@
 
 .contacts__title {
     font-size: 36px;
+    margin-top: 50px;
+}
+
+.contacts__title {
+    font-size: 34px;
     font-weight: bold;
     margin: 20px;
 }
@@ -14,10 +19,12 @@
 .contacts__article1 {
     font-size: 18px;
     margin: 20px;
+    text-align: center;
 }
 
 .contacts__article2 {
     font-size: 14px;
     color: #828282;
-    margin: 20px;
+    text-align: center;
+    margin: 40px;
 }
