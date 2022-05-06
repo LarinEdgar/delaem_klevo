@@ -1,0 +1,4 @@
+<div class="stars">
+    <div class="stars__active" style='width: <!--#echo var="count" -->%;'>
+    </div>
+</div>
