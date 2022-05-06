@@ -7,13 +7,14 @@
         You are welcome!
     </div>
 
-    <button class="contacts__message">
+    <div class="contacts__message">
         Send message
-    </button>
+    </div>
 
     <div class="contacts__icons">
-
+        <!--#include file="/common/socials/index.shtml"-->
     </div>
+
     <div class="contacts__article2">
         Like me on </br>
         LinkedIn, Instagram, Behance, Dribble

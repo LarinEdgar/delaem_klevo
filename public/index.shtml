@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="layout_style.css">
     <link rel="stylesheet" href="navigation/navigation_style.css">
     <link rel="stylesheet" href="home/home_style.css">
-    <link rel="stylesheet" href="contacts/contacts.css">
+    <link rel="stylesheet" href="contacts/contacts_style.css">
+    <link rel="stylesheet" href="common/socials/socials_style.css">
 </head>
 
 <body>
