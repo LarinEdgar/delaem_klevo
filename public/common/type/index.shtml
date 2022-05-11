@@ -1,0 +1,8 @@
+<div class="type">
+    <div class="type__image">
+        <img src="<!--#echo var="image" -->">
+    </div>
+    <div class="type__name">
+        <!--#echo var="name" -->
+    </div>
+</div>

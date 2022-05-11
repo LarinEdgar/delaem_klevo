@@ -1,0 +1,18 @@
+.type {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.type__image {
+    padding-bottom: 24px;
+}
+
+.type__name {
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 14px;
+    color: #828282;
+    font-weight: bold;
+    height: 27px;
+}
