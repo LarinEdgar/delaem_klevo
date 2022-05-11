@@ -1,0 +1,8 @@
+.social-icons {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 350px;
+    padding-top: 50px;
+}

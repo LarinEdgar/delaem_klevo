@@ -1,0 +1,22 @@
+<div class="contacts">
+    <div class="contacts__title">
+        Contacts
+    </div>
+    <div class="contacts__article1">
+        Want to know more or just chat? </br>
+        You are welcome!
+    </div>
+
+    <div class="contacts__message">
+        Send message
+    </div>
+
+    <div class="contacts__icons">
+        <!--#include file="/common/socials/index.shtml"-->
+    </div>
+
+    <div class="contacts__article2">
+        Like me on </br>
+        LinkedIn, Instagram, Behance, Dribble
+    </div>
+</div>
