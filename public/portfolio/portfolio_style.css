@@ -14,3 +14,30 @@
     display: flex;
     justify-content: center;
 }
+
+@media screen and (min-width: 980px) {
+    .portfolio__card-adaptive {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .portfolio {
+        width: 317px;
+        margin: 0 auto;
+        padding: 50px;
+    }
+
+    .portfolio__title {
+        padding-top: 0;
+        padding-bottom: 50px;
+    }
+
+    .portfolio__card {
+        display: none;
+    }
+
+    .card__link {
+        padding-bottom: 20px;
+    }
+}

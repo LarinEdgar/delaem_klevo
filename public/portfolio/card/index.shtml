@@ -2,3 +2,8 @@
     <img src='<!--#echo var="image" -->' alt="something wrong!">
     <a class="card__link" href='<!--#echo var="link" -->'><!--#echo var="text" --></a>
 </div>
+
+
+<div class="card_adaptive">
+    <source srcset='<!--#echo var="image" -->' media="(max-width: 980px)">
+</div>
