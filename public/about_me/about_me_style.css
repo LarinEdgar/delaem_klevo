@@ -1,15 +1,18 @@
 .about-me {
     text-align: center;
-    padding-bottom: 50px;
+    padding-bottom: 107px;
+    padding-top: 120px;
     background-color: #F6F6F6;
+    height: 100%
 }
 
 .about-me__title {
-    font-size: 24px;
+    font-size: 34px;
     font-weight: bold;
-    padding-top: 50px;
+
 }
 
 .about-me__item {
     margin-top: 20px;
+    font-size: 18px;
 }
