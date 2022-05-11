@@ -13,7 +13,6 @@
     <link rel="stylesheet" href="navigation/navigation_style.css">
     <link rel="stylesheet" href="portfolio/portfolio_style.css">
     <link rel="stylesheet" href="portfolio/card/card_style.css">
-    <link rel="stylesheet" href="common/stars/stars_style.css">
 </head>
 
 <body>
