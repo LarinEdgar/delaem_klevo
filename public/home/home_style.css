@@ -3,6 +3,7 @@
     width: 945px;
     margin: 0 auto;
     padding-bottom: 104px;
+    padding-top: 128px;
 }
 @media  screen and (max-width: 980px) {
     .home {
