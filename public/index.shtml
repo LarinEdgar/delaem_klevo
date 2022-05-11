@@ -1,47 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Practical task</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Oleo+Script&family=Roboto:wght@400;500;700&display=swap"
-          rel="stylesheet">
-    <link rel="stylesheet" href="layout_style.css">
-    <link rel="stylesheet" href="home/home_style.css">
-    <link rel="stylesheet" href="about_me/about_me_style.css">
-    <link rel="stylesheet" href="navigation/navigation_style.css">
-    <link rel="stylesheet" href="portfolio/portfolio_style.css">
-    <link rel="stylesheet" href="contacts/contacts_style.css">
-    <link rel="stylesheet" href="portfolio/card/card_style.css">
-    <link rel="stylesheet" href="common/socials/socials_style.css">
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <title>Practical task</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Oleo+Script&family=Roboto:wght@400;500;700&display=swap"
+              rel="stylesheet">
+        <link rel="stylesheet" href="layout_style.css">
+        <link rel="stylesheet" href="navigation/navigation_style.css">
+        <link rel="stylesheet" href="home/home_style.css">
+        <link rel="stylesheet" href="about_me/about_me_style.css">
+        <link rel="stylesheet" href="portfolio/portfolio_style.css">
+        <link rel="stylesheet" href="portfolio/card/card_style.css">
+        <link rel="stylesheet" href="contacts/contacts_style.css">
+        <link rel="stylesheet" href="common/button/button_style.css">
+        <link rel="stylesheet" href="common/socials/socials_style.css">
+        <link rel="stylesheet" href="common/stars/stars_style.css">
+    </head>
 
-<body>
-<div class="layout">
+    <body>
+        <div class="layout">
 
-    <div class="layout__navigation">
-        <!--#include file="/navigation/index.shtml"-->
-    </div>
+            <div class="layout__navigation">
+                <!--#include file="/navigation/index.shtml"-->
+            </div>
 
-    <div id="home" class="layout__home">
-        <!--#include file="/home/index.shtml"-->
-    </div>
+            <div id="home" class="layout__home">
+                <!--#include file="/home/index.shtml"-->
+            </div>
 
-    <div id="about_me" class="layout__about-me">
-        <!--#include file="/about_me/index.shtml"-->
-    </div>
+            <div id="about_me" class="layout__about-me">
+                <!--#include file="/about_me/index.shtml"-->
+            </div>
 
-    <div id="skills" class="layout__skills">
-    </div>
+            <div id="skills" class="layout__skills">
+            </div>
 
-    <div id="portfolio" class="layout__portfolio">
-        <!--#include file="/portfolio/index.shtml"-->
-    </div>
+            <div id="portfolio" class="layout__portfolio">
+                <!--#include file="/portfolio/index.shtml"-->
+            </div>
 
-    <div id="contacts" class="layout__contacts">
-        <!--#include file="/contacts/index.shtml"-->
-    </div>
-</div>
-</body>
+            <div id="contacts" class="layout__contacts">
+                <!--#include file="/contacts/index.shtml"-->
+            </div>
+        </div>
+    </body>
 </html>

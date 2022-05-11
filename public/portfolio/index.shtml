@@ -10,6 +10,11 @@
         <!--#include file="./portfolio/card/index.shtml" -->
     </div>
 
+    <div class="portfolio__card-adaptive">
+        <!--#set var="image" value="/assets/fashion.jpg" -->
+        <!--#include file="./portfolio/card/index.shtml" -->
+    </div>
+
     <div class="portfolio__card">
         <!--#set var="image" value="/assets/card2.png" -->
         <!--#set var="link" value="#" -->
@@ -17,10 +22,20 @@
         <!--#include file="./portfolio/card/index.shtml" -->
     </div>
 
+    <div class="portfolio__card-adaptive">
+        <!--#set var="image" value="/assets/reebok.jpg" -->
+        <!--#include file="./portfolio/card/index.shtml" -->
+    </div>
+
     <div class="portfolio__card">
         <!--#set var="image" value="/assets/card3.png" -->
         <!--#set var="link" value="#" -->
         <!--#set var="text" value="Braun Landing Page - Concept" -->
+        <!--#include file="./portfolio/card/index.shtml" -->
+    </div>
+
+    <div class="portfolio__card-adaptive">
+        <!--#set var="image" value="/assets/braun.jpg" -->
         <!--#include file="./portfolio/card/index.shtml" -->
     </div>
 </div>
