@@ -1,0 +1,26 @@
+.skills {
+    text-align: center;
+    margin: 0 auto;
+    width: 945px;
+    padding-bottom: 110px;
+    padding-top: 91px;
+
+}
+
+@media screen and (max-width: 980px) {
+    .skills {
+        width: 317px
+    }
+}
+
+.skills__title {
+    font-size: 34px;
+    padding-bottom: 100px;
+    font-weight: bold;
+
+}
+
+.skills__subtitle {
+    font-size: 18px;
+    padding-bottom: 88px
+}

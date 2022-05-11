@@ -1,0 +1,30 @@
+<div class="experience">
+    <div class="experience__type">
+        <!--#set var="image" value="/assets/photoshop.jpg" -->
+        <!--#set var="name" value="Adobe<br/>Photoshop" -->
+        <!--#include file="./common/type/index.shtml" -->
+        <!--#set var="count" value="80" -->
+        <!--#include file="./common/stars/index.shtml" -->
+    </div>
+    <div class="experience__type">
+        <!--#set var="image" value="/assets/iIllustrator.jpg" -->
+        <!--#set var="name" value="Adobe<br/>Illustrator" -->
+        <!--#include file="./common/type/index.shtml" -->
+        <!--#set var="count" value="60" -->
+        <!--#include file="./common/stars/index.shtml" -->
+    </div>
+    <div class="experience__type">
+        <!--#set var="image" value="/assets/effects.jpg" -->
+        <!--#set var="name" value="Adobe<br/>After Effects" -->
+        <!--#include file="./common/type/index.shtml" -->
+        <!--#set var="count" value="80" -->
+        <!--#include file="./common/stars/index.shtml" -->
+    </div>
+    <div class="experience__type">
+        <!--#set var="image" value="/assets/figma.jpg" -->
+        <!--#set var="name" value="Figma<br/>" -->
+        <!--#include file="./common/type/index.shtml" -->
+        <!--#set var="count" value="80" -->
+        <!--#include file="./common/stars/index.shtml" -->
+    </div>
+</div>

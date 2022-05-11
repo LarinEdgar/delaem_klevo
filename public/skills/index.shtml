@@ -1,0 +1,9 @@
+<div class="skills">
+    <div class="skills__title">
+        Skills
+    </div>
+    <div class="skills__subtitle">
+        I work in such programs as
+    </div>
+    <!--#include file="/skills/experience/index.shtml"-->
+</div>
