@@ -1,0 +1,23 @@
+<div class="burger">
+    <input id="burger" type="checkbox">
+    <label id="burger-label" for="burger">
+        <img id="open" src="/assets/cross.png" alt="cross">
+        <img id="close" src="/assets/stripes.png" alt="stripes">
+    </label>
+    <nav>
+        <ul class="burger__list">
+            <li><a class="burger__link" href="#home">Home</a></li>
+            <li><a class="burger__link" href="#about_me">About me</a></li>
+            <li><a class="burger__link" href="#skills">Skills</a></li>
+            <li><a class="burger__link" href="#portfolio">Portfolio</a></li>
+            <li><a class="burger__link" href="#contacts">Contacts</a></li>
+        </ul>
+        <div class="burger__lang">
+            <span class="burger__lang-item burger__lang-item_active">RU</span>
+            <span>|</span>
+            <span class="burger__lang-item">ENG</span>
+        </div>
+    </nav>
+
+</div>
+
