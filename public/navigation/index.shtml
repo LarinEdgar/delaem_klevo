@@ -10,3 +10,6 @@
         <div class="navigation__line"></div>
     </div>
 </div>
+<div class="navigator__mobil">
+    <!--#include file="/common/burger-menu/index.shtml"-->
+</div>

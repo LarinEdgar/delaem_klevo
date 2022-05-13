@@ -41,3 +41,15 @@
     margin: auto;
     border-bottom: 1px solid #828282;
 }
+
+.navigator__mobil {
+    display: none;
+}
+@media screen and (max-width: 980px) {
+    .navigator__mobil {
+        display: block;
+    }
+    .navigation {
+        display: none;
+    }
+}
