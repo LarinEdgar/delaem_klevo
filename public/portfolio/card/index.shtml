@@ -1,7 +1,7 @@
-<div>
-    <picture class="card">
+<div class="card">
+    <picture class="card__picture">
         <source srcset='<!--#echo var="srcset" -->' media="(max-width: 980px)">
         <img src='<!--#echo var="image" -->' alt="something wrong!">
-        <a class="card__link" href='<!--#echo var="link" -->'><!--#echo var="text" --></a>
     </picture>
+    <a class="card__link" href='<!--#echo var="link" -->'><!--#echo var="text" --></a>
 </div>
