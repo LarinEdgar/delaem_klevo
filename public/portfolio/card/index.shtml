@@ -1,4 +1,7 @@
-<div class="card">
-    <img src='<!--#echo var="image" -->' alt="something wrong!">
-    <a class="card__link" href='<!--#echo var="link" -->'><!--#echo var="text" --></a>
+<div>
+    <picture class="card">
+        <source srcset='<!--#echo var="srcset" -->' media="(max-width: 980px)">
+        <img src='<!--#echo var="image" -->' alt="something wrong!">
+        <a class="card__link" href='<!--#echo var="link" -->'><!--#echo var="text" --></a>
+    </picture>
 </div>
