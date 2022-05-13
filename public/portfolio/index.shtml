@@ -4,6 +4,7 @@
     </div>
 
     <div class="portfolio__card">
+        <!--#set var="srcset" value="/assets/fashion.png" -->
         <!--#set var="image" value="/assets/card1.png" -->
         <!--#set var="link" value="#" -->
         <!--#set var="text" value="Online fashion store - Homepage" -->
@@ -11,6 +12,7 @@
     </div>
 
     <div class="portfolio__card">
+        <!--#set var="srcset" value="/assets/reebok.png" -->
         <!--#set var="image" value="/assets/card2.png" -->
         <!--#set var="link" value="#" -->
         <!--#set var="text" value="Reebok Store - Concept" -->
@@ -18,6 +20,7 @@
     </div>
 
     <div class="portfolio__card">
+        <!--#set var="srcset" value="/assets/braun.png" -->
         <!--#set var="image" value="/assets/card3.png" -->
         <!--#set var="link" value="#" -->
         <!--#set var="text" value="Braun Landing Page - Concept" -->
